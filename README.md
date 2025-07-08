@@ -3,7 +3,7 @@
 To analyze and visualize university placement data using Tableau, highlighting key trends in job profiles, salaries, departments, and placement status to support data-driven decision-making and career planning.
 
 ## Dataset used
-<a href="https://github.com/SnehaKDuglet/Weather-Trends-Dataset/blob/main/Weather%20Trends%20Dataset.xlsx"> Dataset 
+<a href="https://github.com/SnehaKDuglet/University-Placement-Data-tbw/blob/main/README.md"> Dataset 
 
 ## Questions (KPIs)
 -What percentage of students were placed?
