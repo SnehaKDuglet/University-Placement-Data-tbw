@@ -29,15 +29,15 @@ To analyze and visualize university placement data using Tableau, highlighting k
 
 -Created multiple charts (pie, bar, scatter, line, donut) to highlight key KPIs:
 
-1.Placement rate
+   1.Placement rate
 
-2.Salary distribution
+   2.Salary distribution
 
-3.Job profile share
+   3.Job profile share
 
-4.Department-wise insights
+   4.Department-wise insights
 
-5.Monthly placement trends
+   5.Monthly placement trends
 
 ## Dashboard
 ![SCREENSHOT 1](https://github.com/user-attachments/assets/f52c5d6a-1bac-4d29-abb1-14d964979baf)
